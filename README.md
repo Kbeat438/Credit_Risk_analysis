@@ -6,7 +6,7 @@ The purpose of this analysis is to comb through 6 different sampling algorithms 
 # Results:
 
 - Naive random oversampling:
-![pic1] https://github.com/Kbeat438/Credit_Risk_analysis/blob/main/Images/Naive%20random%20oversampling.png
+![pic1](https://github.com/Kbeat438/Credit_Risk_analysis/blob/main/Images/Naive%20random%20oversampling.png)
 This algorithm produced a balanced accuracy score of 65%. The Precision for Low_risk was a perfect 100% while the precision for high_risk was 1%. The recall for high_risk and Low_risk were 62% and 68% respectfully. 
 
 - SMOTE oversampling:https://github.com/Kbeat438/Credit_Risk_analysis/blob/main/Images/Smote%20oversampling.png
